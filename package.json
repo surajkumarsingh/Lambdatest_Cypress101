@@ -1,0 +1,21 @@
+{
+  "name": "lamdacypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx lambdatest-cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axe-core": "^4.4.2",
+    "cypress": "^9.7.0",
+    "cypress-audit": "^0.3.0",
+    "cypress-axe": "^0.14.0",
+    "cypress-real-events": "^1.7.0",
+    "cypress-xpath": "^1.6.2",
+    "lambdatest-cypress-cli": "^2.5.0"
+  },
+  "dependencies": {}
+}

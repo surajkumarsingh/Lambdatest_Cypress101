@@ -1,0 +1,12 @@
+{
+    "viewportWidth": 1500,
+    "viewportHeight": 960,
+    "modifyObstructiveCode": true,
+    "taskTimeout": 160000,
+    "failOnStatusCode": false,
+    "experimentalSourceRewriting": true,
+    "video": true,
+    "videoCompression": 32,
+    "videosFolder": "cypress/videos",
+    "videoUploadOnPasses": true
+}
